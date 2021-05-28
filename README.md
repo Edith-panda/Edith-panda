@@ -1,14 +1,13 @@
 - 👋 Hi, I’m Yashasvi Sakure / @Edith-panda
-- 👀 I’m interested in Python projects , Machine learning, Cloud computing , C++ problems, Networking.
+- 👀 I’m interested in Python projects , Machine learning, Cloud computing , C++ competitive programming, Networking.
 - ✨I am a problem solver  and a Competitive  programmer. I like to apply my knowledge to solve real time problems and difficulties in my surroundings.
 
 
 - 💞️ I’m looking to collaborate on some interesting Open source Projects and I'm eager to learn new technologies.
-- 
 
 - 📫 How to reach me **edithpanda05@gmail.com**
 
-- ⚡ Fun fact **I'm crazy and I know it ✌ **
+- ⚡ Fun fact - I'm crazy and I know it ✌ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
