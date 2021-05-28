@@ -3,7 +3,7 @@
 - ✨I am a problem solver  and a Competitive  programmer. I like to apply my knowledge to solve real time problems and difficulties in my surroundings.
 
 
-- 💞️ I’m looking to collaborate on some interesting Open source Projects and I'm learn to learn new technologies.
+- 💞️ I’m looking to collaborate on some interesting Open source Projects and I'm eager to learn new technologies.
 - 
 
 - 📫 How to reach me **edithpanda05@gmail.com**
