@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Edith-panda
-- 👀 I’m interested in some Machine learning projects, and python projects and want to contribute to opensource projects as well.
-- 💞️ I’m looking to collaborate on interesting projects as a  gsoc open source contributor.  
+- 👀 I’m interested in Python projects , Machine learning, Cloud computing , C++ problems, Networking.
+- ✨Iam a problem solver  and a Competitive  programmer. I like to apply my knowledge to solve real time problems and difficulties in my surroundings.
+
+
+- 💞️ I’m looking to collaborate on Open source 
 - 
 
 - 📫 How to reach me **edithpanda05@gmail.com**
