@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Edith-panda
 - 👀 I’m interested in some Machine learning projects, and python projects and want to contribute to opensource projects as well.
 - 💞️ I’m looking to collaborate on interesting projects as a  gsoc open source contributor.  
--  👨‍💻 You can also check out my portfolio at [https://khushboogoel01.github.io/](https://khushboogoel01.github.io/)
+- 
 
-- 📫 How to reach me **talktokhushboogoel@gmail.com**
+- 📫 How to reach me **edithpanda05@gmail.com**
 
-- ⚡ Fun fact **I think I am funny XD**
+- ⚡ Fun fact **I'm crazy and I know it ✌ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
