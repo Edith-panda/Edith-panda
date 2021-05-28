@@ -3,7 +3,7 @@
 - ✨I am a problem solver  and a Competitive  programmer. I like to apply my knowledge to solve real time problems and difficulties in my surroundings.
 
 
-- 💞️ I’m looking to collaborate on Open source 
+- 💞️ I’m looking to collaborate on some interesting Open source Projects and I'm learn to learn new technologies.
 - 
 
 - 📫 How to reach me **edithpanda05@gmail.com**
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/khushboogoel01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushboogoel01" height="30" width="40" /></a> -->
+<!-- <a href="https://twitter.com/SakureYashasvi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Edith-panda" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/yashasvi-sakure05/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Edith-panda" height="30" width="40" /></a>
 
 
