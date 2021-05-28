@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Edith-panda
 - 👀 I’m interested in Python projects , Machine learning, Cloud computing , C++ problems, Networking.
-- ✨Iam a problem solver  and a Competitive  programmer. I like to apply my knowledge to solve real time problems and difficulties in my surroundings.
+- ✨I am a problem solver  and a Competitive  programmer. I like to apply my knowledge to solve real time problems and difficulties in my surroundings.
 
 
 - 💞️ I’m looking to collaborate on Open source 
