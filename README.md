@@ -1,3 +1,5 @@
+- https://github.com/Edith-panda/Edith-panda/blob/main/icon/Black%20and%20Purple%20Geometric%20Designer%20Services%20Marketing%20Presentation.png
+- 
 - 👋 Hi, I’m Yashasvi Sakure / @Edith-panda 
 - 👀 I’m interested in Python projects , Machine learning, Cloud computing , C++ competitive programming, Networking.
 - ✨I am a problem solver  and a Competitive  programmer. I like to apply my knowledge to solve real time problems and difficulties in my surroundings.
