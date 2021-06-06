@@ -2,10 +2,8 @@
   # Hi, I'm Yashasvi Sakure <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-
 <br>
 <br>
-
 
 
 
@@ -21,6 +19,7 @@ I am a self learner I like to explore my knowledge and skills .     🔎      I 
 
 
 🎓  I am in the first year of a bachelor's degree in Computer Science engineering.  
+
   I am very passionate about technology cloud computing and coding .
 
    
