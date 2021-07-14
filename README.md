@@ -29,7 +29,6 @@ I am a self learner I like to explore my knowledge and skills .     🔎      I 
 ![Edith- Panda's github stats](https://github-readme-stats.vercel.app/api?username=Edith-panda&show_icons=true&theme=great-gatsby)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edith-panda&theme=great-gatsby&layout=compact)
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
 
 ### My language 
@@ -63,6 +62,7 @@ I am a self learner I like to explore my knowledge and skills .     🔎      I 
 
 <a href="https://badges.pufler.dev">
     <img align="right" src="https://badges.pufler.dev/visits/Edith-panda/Edith-panda?color=yellow" alt="Visitors badge" />
+  [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
  </a>
 
 [linkedin]: https://www.linkedin.com/in/yashasvi-sakure05/
