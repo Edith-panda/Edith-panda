@@ -29,7 +29,7 @@ I am a self learner I like to explore my knowledge and skills .     🔎      I 
 ![Edith- Panda's github stats](https://github-readme-stats.vercel.app/api?username=Edith-panda&show_icons=true&theme=great-gatsby)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edith-panda&theme=great-gatsby&layout=compact)
-https://badges.pufler.dev/repos/{https://github.com/Edith-panda}
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
 
 ### My language 
