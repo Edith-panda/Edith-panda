@@ -62,9 +62,9 @@ I am a self learner I like to explore my knowledge and skills .     🔎      I 
 
 <a href="https://badges.pufler.dev">
     <img align="right" src="https://badges.pufler.dev/visits/Edith-panda/Edith-panda?color=yellow" alt="Visitors badge" />
-  
+    
  </a>
- [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+ 
 
 [linkedin]: https://www.linkedin.com/in/yashasvi-sakure05/
 [twitter]: https://www.twitter.com/SakureYashasvi/
