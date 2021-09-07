@@ -1,12 +1,13 @@
 
-  # Hi, I'm Yashasvi Sakure <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  # Ciao, I'm Yashasvi Sakure <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif ,width="25px"
+
 
 
 <br>
 <br>
 
 <div align="center">
-<p> Ciao , Yashasvi here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </p>
+
 </div>
 <div align="center">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="girlcoding" width="500"  />
